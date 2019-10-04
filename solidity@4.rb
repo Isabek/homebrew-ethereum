@@ -18,7 +18,7 @@ class SolidityAT4 < Formula
   homepage "http://solidity.readthedocs.org"
   url "https://github.com/ethereum/solidity/releases/download/v0.4.19/solidity_0.4.19.tar.gz"
   version "0.4.19"
-  sha256 "3f416d2fe1b376395192357ffaa360300d3d39e058e084e48844957606ec1377"
+  sha256 "6525f2cfe498785b3d752b616cb9b5e81222654ec594a27708f45e688bfa56e9"
 
   depends_on "cmake" => :build
   depends_on "boost@1.60" => "c++11"
